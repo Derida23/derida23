@@ -50,7 +50,7 @@ I'm a <b>Fullstack Developer</b>, love Design and passionate in data science, Ma
 </a>
 **Tools**
 
- <code> <img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" height="35px" alt="android"></code> 
+<img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" height="35px" alt="android"> 
 <a href="https://www.mysql.com/"> 
   <img align="left" src="https://image.flaticon.com/icons/png/512/528/528260.png" height="35px" alt="mysql"> 
 </a>
