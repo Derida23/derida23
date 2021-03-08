@@ -41,10 +41,16 @@ I'm a <b>Fullstack Developer</b>, love Design and passionate in data science, Ma
 </a>
 <a href="https://expressjs.com/"> 
   <img align="left" src="https://user-images.githubusercontent.com/11978772/40430986-a0eb7b92-5e63-11e8-80eb-43fe07f664a6.png" height="35px" alt="express"> 
-</a>
+</a><br/>&nbsp
 <a href="https://www.mysql.com/"> 
   <img align="left" src="https://image.flaticon.com/icons/png/512/528/528260.png" height="35px" alt="mysql"> 
 </a>
-<a href=" http://www.mongodb.com/"> 
+<a href="http://www.mongodb.com/"> 
   <img align="left" src="https://raw.githubusercontent.com/mongodb-js/leaf/master/dist/mongodb-leaf_128x128.png" height="35px" alt="mongodb"> 
+</a>
+<a href="https://nodejs.org/en/"> 
+  <img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" height="35px" alt="node"> 
+</a>
+<a href="https://code.visualstudio.com/"> 
+  <img align="left" src="https://user-images.githubusercontent.com/674621/71187801-14e60a80-2280-11ea-94c9-e56576f76baf.png" height="35px" alt="vscode"> 
 </a>
