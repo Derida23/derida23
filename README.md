@@ -42,14 +42,6 @@ I'm a <b>Fullstack Developer</b>, love Design and passionate in data science, Ma
 <a href="https://expressjs.com/"> 
   <img align="left" src="https://user-images.githubusercontent.com/11978772/40430986-a0eb7b92-5e63-11e8-80eb-43fe07f664a6.png" height="35px" alt="express"> 
 </a>
-
-![#ffffff](https://via.placeholder.com/15/ffffff/000000?text=+)
-![#ffffff](https://via.placeholder.com/15/ffffff/000000?text=+)
-![#ffffff](https://via.placeholder.com/15/ffffff/000000?text=+)
-![#ffffff](https://via.placeholder.com/15/ffffff/000000?text=+)
-![#ffffff](https://via.placeholder.com/15/ffffff/000000?text=+)
-![#ffffff](https://via.placeholder.com/15/ffffff/000000?text=+)
-
 <a href="https://www.android.com/"> 
   <img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" height="35px" alt="android"> 
 </a>
