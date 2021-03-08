@@ -42,7 +42,6 @@ I'm a <b>Fullstack Developer</b>, love Design and passionate in data science, Ma
 <a href="https://expressjs.com/"> 
   <img align="left" src="https://user-images.githubusercontent.com/11978772/40430986-a0eb7b92-5e63-11e8-80eb-43fe07f664a6.png" height="35px" alt="express"> 
 </a>
-<br/>
 <a href="https://www.mysql.com/"> 
   <img align="left" src="https://image.flaticon.com/icons/png/512/528/528260.png" height="35px" alt="mysql"> 
 </a>
