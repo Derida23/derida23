@@ -8,7 +8,7 @@ I'm a <b>Fullstack Developer</b>, love Design and passionate in data science, Ma
 - :e-mail: Reach me through mail <a href="https://gmail.com/"> <img src="https://camo.githubusercontent.com/9f8403b6cb58d427fe1fcaafdf1cf00299d0bf2ef53b14a5e32e66ccf657876d/68747470733a2f2f63646e2e737667706f726e2e636f6d2f6c6f676f732f676f6f676c652d676d61696c2e737667" width="17px"></a> arianderida@gmail.com
 - :speech_balloon: Ask me about anything [here](https://github.com/Derida23/derida23/issues)
 
-#### Languages and Tools:
+#### Programming Languages:
 <a href="https://id.wikipedia.org/wiki/HTML">
   <img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" height="35px" alt="html">
 </a>
@@ -42,14 +42,16 @@ I'm a <b>Fullstack Developer</b>, love Design and passionate in data science, Ma
 <a href="https://expressjs.com/"> 
   <img align="left" src="https://user-images.githubusercontent.com/11978772/40430986-a0eb7b92-5e63-11e8-80eb-43fe07f664a6.png" height="35px" alt="express"> 
 </a>
-<a href="https://www.android.com/"> 
-  <img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" height="35px" alt="android"> 
-</a>
 <a href="https://kotlinlang.org/"> 
   <img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png" height="35px" alt="kotlin"> 
 </a>
 <a href="https://www.python.org/"> 
   <img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" height="45px" alt="python"> 
+</a>
+
+#### Tools
+<a href="https://www.android.com/"> 
+  <img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" height="35px" alt="android"> 
 </a>
 <a href="https://www.mysql.com/"> 
   <img align="left" src="https://image.flaticon.com/icons/png/512/528/528260.png" height="35px" alt="mysql"> 
