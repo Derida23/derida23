@@ -48,7 +48,8 @@ I'm a <b>Fullstack Developer</b>, love Design and passionate in data science, Ma
 <a href="https://www.python.org/"> 
   <img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" height="45px" alt="python"> 
 </a>
-**Tools**
+
+#### Tools
 
 <img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" height="35px" alt="android"> 
 <a href="https://www.mysql.com/"> 
