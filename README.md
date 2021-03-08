@@ -6,6 +6,8 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/arianderida/)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/arianderida)
 
+### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=iampavangandhi.iampavangandhi&style=flat-square&color=252525)
+
 I'm a <b>Fullstack Developer</b>, love Design and passionate in data science, Maniac Javascript developer who has experience in developing Websites and Mobile applications, using ReactJs, React Native and RESTful API in ExpressJs, Having knowledge of UI / UX (graphic design) and Python Data Science. 
 
 - :computer: I’m currently working on [Virus Media Infestara](https://virus.co.id/)
