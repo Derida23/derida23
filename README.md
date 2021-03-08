@@ -49,27 +49,4 @@ I'm a <b>Fullstack Developer</b>, love Design and passionate in data science, Ma
   <img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" height="45px" alt="python"> 
 </a>
 
-<!--- 
-  if you have forked this to use on your profile, 
-  Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app` 
---->
-
-<img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" height="35px" alt="android"> 
-<a href="https://www.mysql.com/"> 
-  <img align="left" src="https://image.flaticon.com/icons/png/512/528/528260.png" height="35px" alt="mysql"> 
-</a>
-<a href="http://www.mongodb.com/"> 
-  <img align="left" src="https://raw.githubusercontent.com/mongodb-js/leaf/master/dist/mongodb-leaf_128x128.png" height="40px" alt="mongodb"> 
-</a>
-<a href="https://nodejs.org/en/"> 
-  <img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" height="35px" alt="node"> 
-</a>
-<a href="https://code.visualstudio.com/"> 
-  <img align="left" src="https://user-images.githubusercontent.com/674621/71187801-14e60a80-2280-11ea-94c9-e56576f76baf.png" height="35px" alt="vscode"> 
-</a>
-<a href="https://insomnia.rest/"> 
-  <img align="left" src="https://camo.githubusercontent.com/bb7b7ce32f44f7922f9c00711a82241e4afb9852b312f354e4bb2de8f522c57e/68747470733a2f2f63646e2e737667706f726e2e636f6d2f6c6f676f732f696e736f6d6e69612e737667" height="35px" alt="insomnia"> 
-</a>
-<a href="https://www.postman.com/"> 
-  <img align="left" src="https://avatars.githubusercontent.com/u/10251060?s=200&v=4" height="35px" alt="postman"> 
-</a>
+asdasdasd
