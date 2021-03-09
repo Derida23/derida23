@@ -33,7 +33,7 @@ I'm a <b>Fullstack Developer</b>, love Design and passionate in data science, Ma
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png" alt="kotlin"></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python"></code>
 
-#### Tools
+#### Tools:
 
 <code><img height="34" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="mysql"></code>
 <code><img height="34" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" alt="mongodb">
@@ -46,3 +46,11 @@ I'm a <b>Fullstack Developer</b>, love Design and passionate in data science, Ma
 <code><img height="27" src="https://avatars.githubusercontent.com/u/58793052?s=400&v=4" alt="jupyter"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" alt="firebase"></code>
 <code><img height="27" src="https://2.img-dpreview.com/files/p/E~TS940x788~articles/2988339509/BlogHeader_150-1-1800x0-c-default_copy.jpeg" alt="adobe"></code>
+  
+  
+<details>	
+  <summary><b>⚡ Github Stats</b></summary>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=derida23&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=derida23&show_icons=true&hide=jupyter notebook&hide_border=true&layout=compact&langs_count=8"/>
+</details>
