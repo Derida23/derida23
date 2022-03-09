@@ -8,7 +8,7 @@
 
 ### Glad to see you here! &nbsp; 
 
-I'm a <b>Fullstack Developer</b>, love Design and passionate in data science, Maniac Javascript developer who has experience in developing Websites and Mobile applications, using ReactJs, React Native and RESTful API in ExpressJs, Having knowledge of UI / UX (graphic design) and Python Data Science. 
+I'm a <b>Fullstack Developer</b>, love Design and passionate in data science, Explore a javascript universe who has experience in developing Websites and Mobile applications Having knowledge of UI / UX and Python Data Science. 
 
 - :computer: I’m currently working on [Privy](https://privy.id/start-free)
 - :open_book: I’m currently learning everything about VueJS and NuxtJS
