@@ -10,7 +10,7 @@
 
 I'm a <b>Fullstack Developer</b>, love Design and passionate in data science, Explore a javascript universe who has experience in developing Websites and Mobile applications Having knowledge of UI / UX and Python Data Science. 
 
-- :computer: I’m currently working on [Privy](https://privy.id/start-free)
+- :computer: I’m currently working on [Privy](https://privy.id/)
 - :open_book: I’m currently learning everything about NextJS & NestJS Prisma
 - :ok_man: Looking for a good opportunity to show up my Skills
 - :e-mail: Reach me through mail <a href="https://gmail.com/"> <img src="https://raw.githubusercontent.com/github/explore/8f19e4dbbf13418dc1b1d58bb265953553c15a46/topics/gmail/gmail.png" width="17px"></a> arianderida@gmail.com
